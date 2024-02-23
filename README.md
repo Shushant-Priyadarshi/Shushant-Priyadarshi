@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shushant Priyadarshi</h1>
-<h3 align="center">[17] Tech Enthusiast | UI/UX & Frontend Dev| DSA</h3>
+<h3 align="center">[17] Tech Enthusiast | UI/UX & Frontend Dev | DSA </h3>
 
 - 🌱 I’m currently learning **Reactjs , TailWind**
 
