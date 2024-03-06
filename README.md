@@ -7,14 +7,14 @@
 - 👯 I’m looking to collaborate on Google Summer of Code
 - 🤝 I’m looking for help with Open Sourcing
 - 📫 How to reach me **profshushant@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1esmXoO7Vf5m3Zh2D__5oXwUsHf8ArYtY/view?usp=sharing](https://drive.google.com/file/d/1esmXoO7Vf5m3Zh2D__5oXwUsHf8ArYtY/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1cCzANREPmku9l9Q4CjrBSjKmiWTdaQo1/view?usp=sharing
 
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shushant-priyadarshi&label=Profile%20views&color=0e75b6&style=flat" alt="shushant-priyadarshi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shushant-priyadarshi" alt="shushant-priyadarshi" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/@ceutical_" target="blank"><img src="https://img.shields.io/twitter/follow/@ceutical_?logo=twitter&style=for-the-badge" alt="@ceutical_" /></a> </p>
 
