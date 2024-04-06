@@ -8,7 +8,7 @@
   
 ### 💫 About Me:
 </div>
-🔭 I’m currently working on my college PHP+REACT project<br>🌱 I’m currently learning Backend Development<br>💬 Ask me about UIs, DSA, DEV<br>⚡ Fun fact - Have you ever noticed the elephant in the logo of PHP? It's a clever nod to the language's name, as the "PH" stands for "elePHant"!
+🔭 I’m currently working on my college PHP+REACT project.<br>🌱 I’m currently learning Backend Development.<br>💬 Ask me about UIs, DSA, DEV.<br>⚡ Fun fact - Have you ever noticed the elephant in the logo of PHP? It's a clever nod to the language's name, as the "PH" stands for "elePHant"!
 
 <br>
 <br><br><br>
