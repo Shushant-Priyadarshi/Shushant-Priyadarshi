@@ -8,7 +8,7 @@
   
 ### 💫 About Me:
 </div>
-🌱 I’m currently learning Backend Development.<br>🔭 I’m currently working on my college PHP project.<br>💬 Ask me about UIs, DSA, DEV.<br>⚡ Fun fact - Have you ever noticed the elephant in the logo of PHP? It's a clever nod to the language's name, as the "PH" stands for "elePHant"!
+🌱 I’m currently learning Backend Development.<br>🔭 I’m currently working on my DSA skill.<br>💬 Ask me about UIs, DSA, DEV.<br>⚡ Fun fact - The concept of the binary search algorithm can be traced back to the "Kama Sutra," an ancient Indian Sanskrit text written around the 2nd century BCE.
 
 <br>
 <br><br><br>
