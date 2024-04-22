@@ -8,8 +8,7 @@
   
 ### 💫 About Me:
 </div>
-🌱 I’m currently learning Backend Development.<br>🔭 I’m currently working on my DSA skill.<br>💬 Ask me about UIs, DSA, DEV.<br>⚡ Fun fact - The concept of the binary search algorithm can be traced back to the "Kama Sutra," an ancient Indian Sanskrit text written around the 2nd century BCE.
-
+🌱 I’m currently learning Backend Development.<br>🔭 I’m currently working on my DSA skill.<br>💬 Ask me about UIs, DSA, DEV.<br>⚡ Fun fact - The concept of the binary search algorithm can be traced back to the "Kama Sutra," an ancient Indian Sanskrit text written around the 2nd century BCE.<br>📝 Resume : https://shorturl.at/gsyXZ
 <br>
 <br><br><br>
 
