@@ -52,14 +52,7 @@
 # ✍️ Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-# 😂Memes
 
-  
-  <img src='https://randommeme-five.vercel.app/' style="height: 300; widht=300;" />
-  
-
-
----
 
 [![](https://visitcount.itsvg.in/api?id=Shushant-Priyadarshi&icon=0&color=0)](https://visitcount.itsvg.in)
 
