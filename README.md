@@ -8,7 +8,7 @@
   
 ### 💫 About Me:
 </div>
-🌱 I’m currently learning DSA.<br>🔭 I’m currently working on my full stack project.<br> 💼 Portfolio - <a href="https://portfolio-0-01.vercel.app/" target="_blank">Click here</a> <br>
+🌱 I’m currently learning Springboot.<br> 💼 Portfolio - <a href="https://portfolio-0-01.vercel.app/" target="_blank">Click here</a> <br>
 📝 Resume : <a href="https://drive.google.com/file/d/16Aao6IT_5lQMg3z78RelIW1IHRNi-AnH/view?usp=sharing" target="_blank">Click here</a><br>
 ⚡ Fun fact - The concept of the binary search algorithm can be traced back to the "Kama Sutra," an ancient Indian Sanskrit text written around the 2nd century BCE.<br>
 <br><br>
