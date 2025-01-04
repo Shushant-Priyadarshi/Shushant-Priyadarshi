@@ -55,11 +55,13 @@
 
 
  
-
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shushant-Priyadarshi&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shushant-Priyadarshi&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shushant-Priyadarshi&layout=compact&hide=css,scss,html&theme=tokyonight" alt="Top Languages" width="400" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Shushant-Priyadarshi&theme=radical" alt="GitHub Streak" width="400"/>
+</div>
+
 
 
 
@@ -70,9 +72,6 @@
 
   
 
-
-# ✍️ Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 
