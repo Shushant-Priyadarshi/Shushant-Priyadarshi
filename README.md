@@ -3,7 +3,7 @@
   
 # 💫 About Me:
 </div>
-🌱 SDE @MinMatters<br>
+🌱 SDE @MinuteMatters<br>
 🌱 Ex SDE Intern @DRDO
 
 
