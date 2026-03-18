@@ -3,8 +3,8 @@
   
 # 💫 About Me:
 </div>
-🌱 SDE @MinuteMatters<br>
-🌱 Ex SDE Intern @DRDO
+🌱 prev SDE Intern @MinuteMatters<br>
+
 
 
 <div align="center">
